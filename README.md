@@ -29,7 +29,7 @@ Supports multi-account management, transactions, history tracking, and JSON repo
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/YOUR_USERNAME/bank-management-system.git
+git clone https://github.com/Ali-datasmith/bank-management-system.git
 cd bank-management-system
 python src/bank_management.py
 ```
