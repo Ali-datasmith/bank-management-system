@@ -48,5 +48,5 @@ python src/bank_management.py
 
 ## 👤 Author
 
-**Muhammad Ali Rajput** — Python Developer  
+**Ali-datasmith** — Python Developer  
 [GitHub](https://github.com/Ali-datasmith)
