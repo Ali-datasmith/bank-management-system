@@ -1,3 +1,6 @@
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/8867a685-f3e2-4989-ae93-8b73a7442748" />
+
+
 # 🏦 Bank Management System
 
 A command-line Bank Management System built with **Python** and **OOP** principles.  
